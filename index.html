@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L&M Evasion | Séjours 2026</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        html { scroll-behavior: smooth; }
+        body { font-family: 'Plus Jakarta Sans', sans-serif; }
+        .glass { background: rgba(255, 255, 255, 0.8); backdrop-filter: blur(10px); }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900">
+
+    <nav class="sticky top-0 z-50 glass border-b border-slate-200">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="flex items-center gap-2">
+                <i data-lucide="map-pin" class="text-blue-600"></i>
+                <span class="text-xl font-extrabold tracking-tight">L&M <span class="text-blue-600">EVASION</span></span>
+            </div>
+            <div class="hidden md:flex gap-8 font-semibold text-sm uppercase tracking-wider text-slate-600">
+                <a href="#" class="hover:text-blue-600 transition">Nos Séjours</a>
+                <a href="#" class="hover:text-blue-600 transition">Destinations</a>
+                <a href="#section-contact" class="hover:text-blue-600 transition font-bold">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="relative py-16 px-6 bg-white overflow-hidden">
+        <div class="max-w-7xl mx-auto relative z-10">
+            <span class="inline-block py-1 px-3 rounded-full bg-blue-50 text-blue-600 text-xs font-bold uppercase mb-4">Catalogue Officiel 2026</span>
+            <h1 class="text-5xl md:text-7xl font-extrabold mb-6 leading-tight">Le voyage <br><span class="text-blue-600">sans limites.</span></h1>
+            <p class="text-lg text-slate-500 max-w-xl">Découvrez nos séjours adaptés, conçus pour offrir évasion et confort à chacun de nos voyageurs.</p>
+        </div>
+        <div class="absolute top-0 right-0 w-1/3 h-full bg-blue-600/5 -skew-x-12 transform translate-x-20"></div>
+    </header>
+
+    <section class="max-w-7xl mx-auto px-6 -mt-10 relative z-20">
+        <div class="bg-white p-6 rounded-2xl shadow-xl border border-slate-200">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 items-end">
+                
+                <div>
+                    <label for="search-input" class="block text-[10px] font-bold uppercase text-slate-400 mb-2 ml-1">Recherche</label>
+                    <input type="text" id="search-input" name="search-input" placeholder="Mot clé (ex: Bretagne)" 
+                        class="w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl outline-none focus:ring-2 focus:ring-blue-600 transition text-sm">
+                </div>
+
+                <div>
+                    <label for="filter-autonomie" class="block text-[10px] font-bold uppercase text-slate-400 mb-2 ml-1">Autonomie</label>
+                    <select id="filter-autonomie" name="filter-autonomie" class="w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl outline-none cursor-pointer text-sm">
+                        <option value="">Toutes les autonomies</option>
+                        <option value="A111 - B121 BA">A111 - B121 BA</option>
+                        <option value="A111 - B221 BA">A111 - B221 BA</option>
+                        <option value="A111 - B222 BA">A111 - B222 BA</option>
+                        <option value="A111 - B222 PSM">A111 - B222 PSM</option>
+                        <option value="A111 - C432 PT">A111 - C432 PT</option>
+                        <option value="A311 - C421 MR">A311 - C421 MR</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="filter-type" class="block text-[10px] font-bold uppercase text-slate-400 mb-2 ml-1">Thématique</label>
+                    <select id="filter-type" name="filter-type" class="w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl outline-none cursor-pointer text-sm">
+                        <option value="">Tous les types de séjours</option>
+                        <option value="Automne">Automne</option>
+                        <option value="Calme">Séjour calme</option>
+                        <option value="Camping">Camping</option>
+                        <option value="Culturel">Culturel</option>
+                        <option value="Equestre">Equestre</option>
+                        <option value="Eté">Eté</option>
+                        <option value="Gastronomie">Gastronomie</option>
+                        <option value="Hiver">Hiver</option>
+                        <option value="Printemps">Printemps</option>
+                        <option value="Sportifs">Séjours sportifs</option>
+                        <option value="Mer">Mer</option>
+                        <option value="Montagne">Montagne</option>
+                        <option value="Campagne">Campagne</option>
+                        <option value="Villes">Villes</option>
+                        <option value="Etrangers">Etrangers</option>
+                        <option value="Détente">Détente & Bien-être</option>
+                        <option value="Spectacles">Spectacles & Festivals</option>
+                        <option value="Animaux">Animaux</option>
+                        <option value="Fêtes">Fêtes de fin d'année</option>
+                    </select>
+                </div>
+
+                <button type="button" onclick="filtrerSejours()" class="w-full bg-[#E65100] hover:bg-[#BF360C] text-white font-bold py-3.5 rounded-xl shadow-lg transition-all text-sm">
+                    Rechercher
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <main class="max-w-7xl mx-auto px-6 py-12">
+        <div id="sejours-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+            </div>
+    </main>
+
+    <footer id="section-contact" class="bg-white border-t border-slate-200 pt-16 pb-8">
+        <div class="max-w-7xl mx-auto px-6 text-sm text-slate-500">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12 text-slate-900 font-bold">
+                <div>
+                    <h3 class="text-xl font-extrabold text-slate-900 mb-4 tracking-tight uppercase">L&M <span class="text-blue-600">Evasion</span></h3>
+                    <p class="text-slate-500 leading-relaxed font-normal normal-case">
+                        3 allée du château de la mothe appt 7<br>
+                        86240 Ligugé
+                    </p>
+                </div>
+                <div class="space-y-4 font-normal">
+                    <div class="flex items-center gap-3">
+                        <i data-lucide="phone" class="text-blue-600 w-4 h-4"></i>
+                        <span>05 79 79 96 15</span>
+                    </div>
+                    <div class="flex items-center gap-3">
+                        <i data-lucide="mail" class="text-blue-600 w-4 h-4"></i>
+                        <a href="mailto:reservations@lmevasion.com" class="hover:text-blue-600 transition">reservations@lmevasion.com</a>
+                    </div>
+                </div>
+                <div class="flex flex-col justify-end md:items-end font-normal italic text-[10px] text-slate-400">
+                    <p>Ce site est propulsé par IWAN.fr</p>
+                </div>
+            </div>
+            <div class="border-t border-slate-100 pt-8 text-center text-[10px] uppercase tracking-widest font-bold text-slate-400">
+                <p>© 2026 L&M Evasion</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
