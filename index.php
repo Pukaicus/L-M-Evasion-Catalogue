@@ -1,12 +1,10 @@
 <?php
 // 1. CONFIGURATION ET FONCTIONS
-// On affiche les erreurs pour comprendre le blocage pendant les tests
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 /**
  * Fonction pour transformer la date XML (AAAAMMJJ) en format lisible (JJ Mois AAAA)
- * Indispensable pour éviter l'erreur "Call to undefined function"
  */
 function formatDateXML($str) {
     if (!$str) {
@@ -25,11 +23,9 @@ $tousLesSejours = [];
 
 foreach ($fichiersXml as $fichier) {
     if (file_exists($fichier)) {
-        // On tente d'abord un chargement direct
         $xmlObj = @simplexml_load_file($fichier);
         
         if ($xmlObj === false) {
-            // Si ça rate (à cause du code Canva), on nettoie avant de lire
             $contenu = file_get_contents($fichier);
             $balisesA = '<SEJOUR><NomSejour><DateDebut><Datefin><Prix_Sejour><Autonomie><Publication_Titre><Publication_TarifPublic><PHOTO1><Theme>';
             $contenu_propre = strip_tags($contenu, $balisesA);
@@ -37,9 +33,10 @@ foreach ($fichiersXml as $fichier) {
         }
 
         if ($xmlObj) {
-            // On gère les majuscules/minuscules des balises racines
             $items = $xmlObj->SEJOUR;
-            if (count($items) == 0) { $items = $xmlObj->sejour; }
+            if (count($items) == 0) {
+                $items = $xmlObj->sejour;
+            }
             
             foreach ($items as $s) {
                 $tousLesSejours[] = $s;
@@ -147,10 +144,15 @@ foreach ($fichiersXml as $fichier) {
                     // LOGIQUE IMAGE : On remplace les ## par des / pour chaque séjour
                     $photo = str_replace('##', '/', (string)$s->PHOTO1);
                     
+                    // LOGIQUE PRIX : On vérifie les deux balises possibles
+                    $prixAffiche = !empty((string)$s->Publication_TarifPublic) ? (string)$s->Publication_TarifPublic : (string)$s->Prix_Sejour;
+
                     // Préparation des thèmes pour le filtre JS
                     $themes = "";
                     if (isset($s->Theme)) {
-                        foreach ($s->Theme as $t) { $themes .= strtolower((string)$t) . " "; }
+                        foreach ($s->Theme as $t) {
+                            $themes .= strtolower((string)$t) . " ";
+                        }
                     }
                 ?>
                 <div class="sejour-card group bg-white rounded-3xl shadow-sm hover:shadow-2xl transition-all duration-500 overflow-hidden border border-slate-100"
@@ -179,7 +181,7 @@ foreach ($fichiersXml as $fichier) {
                             <div>
                                 <p class="text-[10px] uppercase font-bold text-slate-400">Tarif Public</p>
                                 <p class="text-lg font-black text-slate-900 tracking-tight">
-                                    <?php echo !empty((string)$s->Publication_TarifPublic) ? htmlspecialchars((string)$s->Publication_TarifPublic) . ' €' : 'Sur devis'; ?>
+                                    <?php echo !empty($prixAffiche) ? htmlspecialchars($prixAffiche) . ' €' : 'Sur devis'; ?>
                                 </p>
                             </div>
                             <button type="button" onclick="location.href='details.php?nom=<?php echo urlencode((string)$s->NomSejour); ?>'" class="bg-slate-900 text-white p-4 rounded-2xl group-hover:bg-blue-600 transition-colors shadow-lg" aria-label="Détails">
@@ -197,8 +199,53 @@ foreach ($fichiersXml as $fichier) {
         </div>
     </main>
 
-    <footer id="section-contact" class="bg-white border-t border-slate-200 pt-16 pb-8 text-center text-sm text-slate-500">
-        <p>© 2026 L&M Evasion | Propulsé par IWAN.fr</p>
+    <footer id="section-contact" class="bg-white border-t border-slate-200 pt-16 pb-8">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
+            
+            <div>
+                <div class="flex items-center gap-2 mb-6">
+                    <i data-lucide="map-pin" class="text-blue-600"></i>
+                    <span class="text-xl font-extrabold tracking-tight">L&M <span class="text-blue-600">EVASION</span></span>
+                </div>
+                <address class="not-italic text-slate-500 text-sm leading-relaxed">
+                    3 allée du château de la mothe appt 7<br>
+                    86240 Ligugé
+                </address>
+            </div>
+
+            <div>
+                <h4 class="text-slate-900 font-bold uppercase text-xs tracking-widest mb-6">Nous contacter</h4>
+                <div class="space-y-4">
+                    <a href="tel:0579799615" class="flex items-center gap-3 text-slate-500 hover:text-blue-600 transition text-sm">
+                        <i data-lucide="phone" class="w-4 h-4"></i>
+                        05 79 79 96 15
+                    </a>
+                    <a href="mailto:reservations@lmevasion.com" class="flex items-center gap-3 text-slate-500 hover:text-blue-600 transition text-sm">
+                        <i data-lucide="mail" class="w-4 h-4"></i>
+                        reservations@lmevasion.com
+                    </a>
+                </div>
+            </div>
+
+            <div>
+                <h4 class="text-slate-900 font-bold uppercase text-xs tracking-widest mb-6">Navigation</h4>
+                <ul class="text-sm text-slate-500 space-y-3">
+                    <li><button onclick="window.scrollTo(0,0)" class="hover:text-blue-600">Nos Séjours</button></li>
+                    <li><a href="#section-recherche" class="hover:text-blue-600">Destinations</a></li>
+                    <li><a href="#" class="hover:text-blue-600">Mentions Légales</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="pt-8 border-t border-slate-100 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-400">
+            <p>© 2026 L&M Evasion | Tous droits réservés</p>
+            <p class="flex items-center gap-1">
+                <i data-lucide="shield-check" class="w-3 h-3"></i>
+                Ce site est propulsé par Iwan<a href="https://iwan.fr" target="_blank" class="font-bold hover:text-blue-600">IWAN.fr</a>
+            </p>
+        </div>
+    </div>
     </footer>
 
     <script>
