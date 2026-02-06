@@ -5,8 +5,8 @@
 <Datefin>20260204</Datefin>
 <Prix_Sejour>1727</Prix_Sejour>
 <Autonomie>A111 - C432 PT</Autonomie>
-<PHOTO1>montagne2.jpg</PHOTO1>
-<PHOTO2>montagne1.jpg</PHOTO2>
+<PHOTO1>img/montagne2.jpg</PHOTO1>
+<PHOTO2>img/montagne1.jpg</PHOTO2>
 <Theme>Montagne</Theme>
 <Theme>hiver</Theme>
 <Publication_Annonce>Vacances dédiées aux activités des neiges et à la découverte de paysages sublimes.
@@ -27,7 +27,7 @@
 <Datefin>20260403</Datefin>
 <Prix_Sejour>1261</Prix_Sejour>
 <Autonomie>A111 - C432 PT</Autonomie>
-<PHOTO1>zen.jpg</PHOTO1>
+<PHOTO1>img/zen.jpg</PHOTO1>
 <PHOTO2></PHOTO2>
 <Theme>Détente &amp; bien-être</Theme>
 <Theme>printemps</Theme>
@@ -54,7 +54,7 @@ Nombre de Nuits : 3</Publication_Annonce>
 <Datefin>20260406</Datefin>
 <Prix_Sejour>1670</Prix_Sejour>
 <Autonomie>A111 - C432 PT</Autonomie>
-<PHOTO1>monlin-rouge.jpg</PHOTO1>
+<PHOTO1>img/monlin-rouge.jpg</PHOTO1>
 <Theme>Villes</Theme>
 <Theme>culturel</Theme>
 <Theme>séjour</Theme>
