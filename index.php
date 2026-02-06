@@ -17,6 +17,16 @@ function formatDateXML($str) {
     return $d . " " . $mois[(int)$m - 1] . " " . $y;
 }
 
+/**
+ * AJOUT : Fonction pour extraire le nombre de participants depuis la description
+ */
+function extraireParticipants($texte) {
+    if (preg_match('/Nombre de participants\s*:\s*(\d+)/i', $texte, $matches)) {
+        return (int)$matches[1];
+    }
+    return 0;
+}
+
 // 2. CHARGEMENT DES DEUX SOURCES XML (sejour.xml et data.xml)
 $fichiersXml = ['sejour.xml', 'data.xml'];
 $tousLesSejours = [];
@@ -27,7 +37,7 @@ foreach ($fichiersXml as $fichier) {
         
         if ($xmlObj === false) {
             $contenu = file_get_contents($fichier);
-            $balisesA = '<SEJOUR><NomSejour><DateDebut><Datefin><Prix_Sejour><Autonomie><Publication_Titre><Publication_TarifPublic><PHOTO1><Theme>';
+            $balisesA = '<SEJOUR><NomSejour><DateDebut><Datefin><Prix_Sejour><Autonomie><Publication_Titre><Publication_TarifPublic><PHOTO1><Theme><Participants><Publication_Annonce>';
             $contenu_propre = strip_tags($contenu, $balisesA);
             $xmlObj = @simplexml_load_string($contenu_propre);
         }
@@ -137,28 +147,24 @@ foreach ($fichiersXml as $fichier) {
         </div>
     </section>
 
-    <main class="max-w-7xl mx-auto px-6 py-12">
+<main class="max-w-7xl mx-auto px-6 py-12">
         <div id="sejours-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
             <?php if (!empty($tousLesSejours)): ?>
                 <?php foreach ($tousLesSejours as $s):
-                    // LOGIQUE IMAGE : On remplace les ## par des / pour chaque séjour
                     $photo = str_replace('##', '/', (string)$s->PHOTO1);
-                    
-                    // LOGIQUE PRIX : On vérifie les deux balises possibles
                     $prixAffiche = !empty((string)$s->Publication_TarifPublic) ? (string)$s->Publication_TarifPublic : (string)$s->Prix_Sejour;
-
-                    // Préparation des thèmes pour le filtre JS
-                    $themes = "";
+                    
+                    $themesStr = "";
                     if (isset($s->Theme)) {
                         foreach ($s->Theme as $t) {
-                            $themes .= strtolower((string)$t) . " ";
+                            $themesStr .= strtolower((string)$t) . " ";
                         }
                     }
                 ?>
                 <div class="sejour-card group bg-white rounded-3xl shadow-sm hover:shadow-2xl transition-all duration-500 overflow-hidden border border-slate-100"
                      data-nom="<?php echo strtolower(htmlspecialchars((string)$s->NomSejour)); ?>"
                      data-autonomie="<?php echo htmlspecialchars((string)$s->Autonomie); ?>"
-                     data-themes="<?php echo trim(htmlspecialchars($themes)); ?>">
+                     data-themes="<?php echo trim(htmlspecialchars($themesStr)); ?>">
                     
                     <div class="relative h-64 overflow-hidden bg-slate-200">
                         <img src="<?php echo $photo; ?>" alt="Séjour <?php echo htmlspecialchars((string)$s->NomSejour); ?>" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700">
@@ -170,30 +176,72 @@ foreach ($fichiersXml as $fichier) {
                     </div>
 
                     <div class="p-8">
-                        <h3 class="text-2xl font-extrabold text-slate-800 mb-4 group-hover:text-blue-600 transition uppercase italic">
-                            <?php echo htmlspecialchars((string)$s->NomSejour); ?>
-                        </h3>
-                        <div class="space-y-3 mb-8 text-sm text-slate-500 font-medium">
+                    <h3 class="text-2xl font-extrabold text-slate-800 mb-4 group-hover:text-blue-600 transition uppercase italic">
+                        <?php echo htmlspecialchars((string)$s->NomSejour); ?>
+                    </h3>
+
+                    <div class="flex justify-between items-start mb-8">
+                        <div class="space-y-3 text-sm text-slate-500 font-medium border-l-2 border-blue-500 pl-4">
                             <div class="flex items-center"><i data-lucide="calendar" class="w-4 h-4 mr-3 text-blue-500"></i>Du <?php echo formatDateXML((string)$s->DateDebut); ?></div>
                             <div class="flex items-center"><i data-lucide="chevron-right" class="w-4 h-4 mr-3 text-transparent"></i>Au <?php echo formatDateXML((string)$s->Datefin); ?></div>
                         </div>
-                        <div class="flex items-center justify-between pt-6 border-t border-slate-50">
+                        
+                            <div class="flex flex-col items-end gap-1.5 min-w-[100px]">
+                            <?php
+                            $themesTrouves = [];
+                            if (isset($s->Theme)) {
+                                foreach ($s->Theme as $t) {
+                                    $valeur = trim((string)$t);
+                                    if (!empty($valeur)) { $themesTrouves[] = $valeur; }
+                                }
+                            }
+                            if (empty($themesTrouves)) {
+                                foreach ($s->children() as $nomBalise => $valeurBalise) {
+                                    if (strtolower($nomBalise) == 'theme') {
+                                        $themesTrouves[] = trim((string)$valeurBalise);
+                                    }
+                                }
+                            }
+                            foreach (array_unique($themesTrouves) as $nomTheme) {
+                                echo '<span class="px-2 py-1 bg-slate-100 text-slate-500 text-[9px] font-bold uppercase rounded border border-slate-200 shadow-sm">' . htmlspecialchars($nomTheme) . '</span>';
+                            }
+                            ?>
+                        </div>
+                    </div>
+
+                    <div class="flex items-center justify-between pt-6 border-t border-slate-50">
+                        <div class="flex flex-col gap-2">
                             <div>
                                 <p class="text-[10px] uppercase font-bold text-slate-400">Tarif Public</p>
                                 <p class="text-lg font-black text-slate-900 tracking-tight">
                                     <?php echo !empty($prixAffiche) ? htmlspecialchars($prixAffiche) . ' €' : 'Sur devis'; ?>
                                 </p>
                             </div>
-                            <button type="button" onclick="location.href='details.php?nom=<?php echo urlencode((string)$s->NomSejour); ?>'" class="bg-slate-900 text-white p-4 rounded-2xl group-hover:bg-blue-600 transition-colors shadow-lg" aria-label="Détails">
-                                <i data-lucide="arrow-right" class="w-5 h-5"></i>
-                            </button>
+                            
+                            <?php
+                                $maxPlaces = (isset($s->Participants)) ? (int)$s->Participants : extraireParticipants((string)$s->Publication_Annonce);
+                                if ($maxPlaces > 0):
+                                    $placesRestantes = rand(1, $maxPlaces - 1);
+                            ?>
+                                <div class="flex items-center gap-1.5 px-2 py-1 bg-orange-50 rounded-lg border border-orange-100 w-fit">
+                                    <div class="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse"></div>
+                                    <span class="text-[10px] font-bold text-orange-700 uppercase tracking-wider">
+                                        Il reste <?php echo $placesRestantes; ?> / <?php echo $maxPlaces; ?> places
+                                    </span>
+                                </div>
+                            <?php endif; ?>
                         </div>
+
+                        <button type="button" onclick="location.href='details.php?nom=<?php echo urlencode((string)$s->NomSejour); ?>'" class="bg-slate-900 text-white p-4 rounded-2xl hover:bg-blue-600 transition-colors shadow-lg">
+                            <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                        </button>
                     </div>
                 </div>
+            </div>
                 <?php endforeach; ?>
             <?php else: ?>
                 <div class="col-span-full text-center py-20 text-slate-400">
-                    <p>Aucun séjour trouvé. Vérifie tes fichiers XML.</p>
+                    <p>Aucun séjour trouvé.</p>
                 </div>
             <?php endif; ?>
         </div>
@@ -202,7 +250,6 @@ foreach ($fichiersXml as $fichier) {
     <footer id="section-contact" class="bg-white border-t border-slate-200 pt-16 pb-8">
     <div class="max-w-7xl mx-auto px-6">
         <div class="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
-            
             <div>
                 <div class="flex items-center gap-2 mb-6">
                     <i data-lucide="map-pin" class="text-blue-600"></i>
@@ -213,7 +260,6 @@ foreach ($fichiersXml as $fichier) {
                     86240 Ligugé
                 </address>
             </div>
-
             <div>
                 <h4 class="text-slate-900 font-bold uppercase text-xs tracking-widest mb-6">Nous contacter</h4>
                 <div class="space-y-4">
@@ -227,7 +273,6 @@ foreach ($fichiersXml as $fichier) {
                     </a>
                 </div>
             </div>
-
             <div>
                 <h4 class="text-slate-900 font-bold uppercase text-xs tracking-widest mb-6">Navigation</h4>
                 <ul class="text-sm text-slate-500 space-y-3">
@@ -237,12 +282,11 @@ foreach ($fichiersXml as $fichier) {
                 </ul>
             </div>
         </div>
-
         <div class="pt-8 border-t border-slate-100 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-400">
             <p>© 2026 L&M Evasion | Tous droits réservés</p>
             <p class="flex items-center gap-1">
                 <i data-lucide="shield-check" class="w-3 h-3"></i>
-                Ce site est propulsé par Iwan<a href="https://iwan.fr" target="_blank" class="font-bold hover:text-blue-600">IWAN.fr</a>
+                Ce site est propulsé par Iwan<a href="https://iwan.fr" target="_blank" class="font-bold hover:text-blue-600 ml-1">IWAN.fr</a>
             </p>
         </div>
     </div>
@@ -259,11 +303,9 @@ foreach ($fichiersXml as $fichier) {
                 const nom = card.dataset.nom;
                 const autonomie = card.dataset.autonomie;
                 const themes = card.dataset.themes;
-
                 const matchesSearch = nom.includes(search);
                 const matchesAuto = auto === "" || autonomie === auto;
                 const matchesTheme = themeSelected === "" || themes.includes(themeSelected) || nom.includes(themeSelected);
-
                 card.style.display = (matchesSearch && matchesAuto && matchesTheme) ? "block" : "none";
             });
         }

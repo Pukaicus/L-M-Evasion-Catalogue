@@ -7,24 +7,73 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>montagne2.jpg</PHOTO1>
 <PHOTO2>montagne1.jpg</PHOTO2>
+<Theme>Montagne</Theme>
+<Theme>hiver</Theme>
+<Publication_Annonce>Vacances dédiées aux activités des neiges et à la découverte de paysages sublimes.
+
+        Au programme : une balade en chien de traineau, découverte du métier de musher et du fonctionnement d'une meute de chiens. 2 séances de ski fauteuil au cœur de la station du Mont Dore.
+        Possibilité musée de la tannerie et du cuir.
+
+        Une balade en train à crémaillère vous offrant un panorama à couper le souffle : point de vue à 360 degrés sur les chaînes volcaniques. Le train vous amènera au sommet du Puy de Dôme.
+        Visite d’une fromagerie et de villages typiques tels que la Bourboule, Saint-Nectaire et Saint-Saturnin.
+
+        Hébergement : 
+        Gîte "Le Mont", gîte de plein pied, situé dans le parc naturel régional des volcans d’Auvergne. 4 chambres PMR. Labelisé 4 étoiles.</Publication_Annonce>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Zen en vendée</NomSejour>
 <DateDebut>20260331</DateDebut>
 <Datefin>20260403</Datefin>
 <Prix_Sejour>1261</Prix_Sejour>
 <Autonomie>A111 - C432 PT</Autonomie>
-<PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASLS275775HILARIE##detente.jpg</PHOTO1>
-<PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVPWJ9475LOUISE##Image54.jpg</PHOTO2>
+<PHOTO1>zen.jpg</PHOTO1>
+<PHOTO2></PHOTO2>
+<Theme>Détente &amp; bien-être</Theme>
+<Theme>printemps</Theme>
+<Theme>calme</Theme>
+<Theme>campagne</Theme>
+<Publication_Annonce>Court séjour consacré à la détente pour les personnes qui souhaitent se faire cocooner
+
+Un programme basé sur la détente. Deux moments de massages et soins sur le lieu de l'hébergement. Les prestations seront choisies avec le vacancier et l'intervenant afin de répondre aux envies et besoins de chacun. Une séance de sophrologie. Détente et farniente au sein de la piscine et du jacuzzi présents au gîte. 
+
+Hébergement :
+Gîte les “Clés du Chant”, très joli hébergement avec un très grand espace de vie, piscine intérieure chauffée et jacuzzi. Logement chaleureux avec cheminée. 4 chambres PMR avec SDB et toilette. 
+
+Label :  Labelisé 5 étoiles, 4 épi, label Gîte de France et Tourisme et Handicap
+Gestion des repas : Gestion libre
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 3</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Soirée Parisienne</NomSejour>
 <DateDebut>20260402</DateDebut>
 <Datefin>20260406</Datefin>
 <Prix_Sejour>1670</Prix_Sejour>
 <Autonomie>A111 - C432 PT</Autonomie>
-<PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVPX45M75LOUISE##PXL_20241226_153917738.NIGHT.RAW-01.COVER.jpg</PHOTO1>
+<PHOTO1>monlin-rouge.jpg</PHOTO1>
+<Theme>Villes</Theme>
+<Theme>culturel</Theme>
+<Theme>séjour</Theme>
+<Theme>dynamique</Theme>
+<Publication_Annonce>Court séjour dédié à la découverte des soirées nocturnes de la capitale
+
+Au programme, nous vous proposons de plonger en plein coeur de la ville de Paris à la découverte des théâtres parisiens et des plateaux TV. Vous profiterez d’une soirée au Moulin Rouge. Visite des incontournables monuments parisiens, Montmartre, Tour Eiffel, balade en bateau mouche, shopping, etc. 
+
+Hébergement : 
+Auberge de jeunesse “Maurice Ravel” avec salle de restauration et grand espace de détente. 4 chambres dont 3 PMR. 
+
+Label :  Labelisé 2 étoiles, label Tourisme et Handicap.
+Gestion des repas : Pension complète
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 4</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Médiation Animale en Maine et Loire</NomSejour>
 <DateDebut>20260518</DateDebut>
@@ -32,7 +81,23 @@
 <Prix_Sejour>1368</Prix_Sejour>
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVP2634H75LOUISE##WhatsApp Image 2024-08-07 à 11.43.04_66b26235.jpg</PHOTO1>
+        <Theme>Animaux</Theme>
+        <Theme>campagne</Theme>
+        <Theme>printemps</Theme>
+        <Publication_Annonce>Court séjour pour ceux qui aiment la nature et les animaux
+
+Au programme, de la douceur et des animaux. Immersion en plein cœur de la ferme, rencontre avec différents animaux : ânes, poules, lapins, chèvres. Atelier nourrissage. Vous pourrez profiter de deux séances de médiations animales, une avec des chiens et une avec des ânes. Visite du Zoo de la Flèche. Une activité pizza maison sera réalisée autour d’un four à pain afin de se régaler. 
+
+Hébergement : 
+“La ferme de Nat - Gîte la marguerite”. 4 chambres. Une grande salle conviviale, avec terrasse et vue directe sur les champs, babyfoot, billard.
+
+Gestion des repas : Gestion libre
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 4</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Evasion Catalane en Espagne</NomSejour>
 <DateDebut>20260521</DateDebut>
@@ -41,7 +106,24 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVP29305275LOUISE##IMG_20210531_141720.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASO34506475HILARIE##etrangers-handicap-sejours-adapte-jpeg.jpg</PHOTO2>
+        <Theme>Etrangers</Theme>
+        <Theme>printemps</Theme>
+        <Theme>mer</Theme>
+        <Publication_Annonce>Séjour dédié à la découverte et aux trésors de la Catalogne ainsi qu'à la détente au bord de la Méditerranée
+
+Au programme, visite de la ville de Barcelone, visite de la célèbre Sagrada Familia et possibilité de visiter le musée Picasso si le groupe le souhaite. Deux journées seront consacrées à PortAventura, l'un des plus grands parcs d'attraction d'Europe. Promenades au cœur des villages de Tarragone, Reus ou encore Torre embarra sur les traces des Romains. Visite de la petite ville d’Altafulla. Balade en bateau sur la côte méditerranéenne de Costa Dorada. Farniente en terrasse, baignade. Détente à l’hébergement, animations, parc aquatique, SPA ( avec supplément). Possibilité de massage pour ceux qui le souhaitent (avec supplément).
+
+Hébergement : 
+Village vacances “Cambrils Park Resort”, 2 appartements PMR de 53m². 4 chambres PMR. Au sein du village parc aquatique, piscine, animations. Restaurant et bar à disposition. 
+
+Label : Labelisé 4 étoiles.
+Gestion des repas :  Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 9</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Nautique en Bretagne</NomSejour>
 <DateDebut>20260627</DateDebut>
@@ -50,7 +132,25 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVP46H5075LOUISE##127701187_1085971125164919_4359783390047380157_n.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASO38J4775HILARIE##bateau-handicap-lm-evasion.jpg</PHOTO2>
+        <Theme>Mer</Theme>
+        <Theme>été</Theme>
+        <Theme>sportifs</Theme>
+        <Theme>séjours</Theme>
+        <Publication_Annonce>Vacances dédiées au nautisme pour les personnes qui aiment la mer, et qui souhaitent découvrir cet univers et les panoramas à couper le souffle de cette région
+
+Au programme initiation au Char à voile. Une après-midi canoë à la découverte de Ria d'Etel, et possibilité de surf ou paddle adaptés en fonction des envies du vacancier (supplément). Visite de l’Océarium du Croisic. Visite du musée de la cité de la voile à Lorient. Balade sur la côte ainsi qu’au massif dunaire d’Erdeven, un patrimoine naturel exceptionnel. Découvrez la pointe de St Gildas de Rhuis et la presqu'île de Quiberon. Balade à Vannes et au village authentique de Auray. Farniente et baignade à la plage. 
+
+Hébergement : 
+Gîte de l’Orchidée”, grand espace de vie avec billard et baby-foot, gîte avec parking . 4 chambres PMR.
+
+Label :  Labélisé 3 étoiles et Tourisme et Handicap,
+Gestion des repas : Demi pension
+Nombre de participants : 6
+Nombre d'accompagnateurs : 4
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Aux portes de la Camargue</NomSejour>
 <DateDebut>20260627</DateDebut>
@@ -59,7 +159,24 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASO42294175HILARIE##WhatsApp Image 2024-07-17 à 13.08.55_d61f8d39.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVP32416875LOUISE##Camargue méditerannée 2.jpg</PHOTO2>
+        <Theme>Mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Vacances dédiées à la découverte de somptueux paysages entre montagnes, mer Méditerranée et nature sauvage de la Camargue
+
+Visite des stations balnéaires de la Grande Motte, de Palavas les Flots, le Grau du Roi, ou bien Saintes-Maries-de-la-Mer. Possibilité de visiter l'une des villes historiques de la région, Nîmes et ses arènes ou bien la charmante petite ville de Sète avec son port de plaisance. Promenade au lac de Salagou pour admirer le cirque de Mourèze. Faire une balade en bateau au cœur de la réserve naturelle de la Camargue, l'occasion d'admirer une multitude d'oiseaux
+
+comme des flammants rose. Découverte de la Camargue avec une balade en calèche, possibilité de visite de la maison du riz ou du musée du cheval, des marais salants. Farniente et baignade à la plage avec tiralo à disposition. Marchés et animations locales.
+
+Hébergement : 
+Village vacances “Les Cyclades”. Un hébergement sous le soleil du Languedoc à proximité du port et des commerces. A 300 mètres de la plage. 8 chambres avec TV dont 4 chambres PMR, les chambres sont communicantes.  
+
+Gestion des repas :  Pension complète
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 8</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Sports à sensations dans les Landes</NomSejour>
 <DateDebut>20260701</DateDebut>
@@ -68,7 +185,24 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVQBI9175LOUISE##IMG_20190419_095038.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVP37389975LOUISE##kartong-handicap-lm-evasion.jpg</PHOTO2>
+        <Theme>Sportifs</Theme>
+        <Theme>séjours</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Séjour consacré aux sensations fortes : frissons garantis !
+
+De multiples activités vous sont proposées : balade en quads ou en 4x4, baptême en voiture cabriolet, un après-midi Karting, bateau à sensation. Visite du musée de l'Océan à Biarritz, expérience immersive. Le séjour sera l’occasion de découvrir le joli bord de mer à Capbreton ou Hossegor. Si une activité à sensations n'est pas possible, nous la remplacerons par une autre (et à sensations bien entendu !) .
+
+Hébergement : 
+“Gîte de a Bergerie”, situé en plein cœur de la forêt landaise. Terrasse extérieure, espace détente avec jacuzzi et transats. 4 chambres PMR, chaque chambre à la TV, sa salle de bain et son WC.
+
+Label :  
+Gestion des repas :  Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 2
+Nombre de Nuits : 4</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Franco Espagnol à Hendaye</NomSejour>
 <DateDebut>20260704</DateDebut>
@@ -77,7 +211,24 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVP39356775LOUISE##St Sebastien Hendaye.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASO50348675HILARIE##fb5.jpg</PHOTO2>
+        <Theme>Etrangers</Theme>
+        <Theme>mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Séjour dédié à la détente et farniente dans une ambiance partagée entre mer et montagne
+
+Découverte à bord d’un bateau pour découvrir la côte au départ de St Jean de Luz. Balade en petit train de la Rhune (selon autonomie) afin d’admirer une vue sur les Pyrénées. Une journée consacrée à la Cité de l’Océan et l’aquarium de Saint Sébastien ou Biarritz. Pour ceux qui le souhaitent, possibilité de faire du surf adapté (avec supplément) Soirées animées au camping, festivités et marchés locaux. Baignades sur les plages accessibles et adaptées de Hendaye, au lac de Ciboure avec tiralos à disposition, ou au camping. Visite des stations balnéaires de Saint Jean de Luz, Biarritz, et passage obligé dans la jolie ville de Saint Sébastien en Espagne. Promenade au cœur du village d’Espelette. Possibilité de visiter le musée du chocolat, Espelette, les grottes de Sare. 
+
+Hébergement : 
+Camping “Eskualduna”, 3 mobil homes PMR, chambres. Parc aquatique, piscine chauffée et adaptées. Animations chaque jour.
+
+Label :  Labélisé 4 étoiles, Tourisme rt Handicap. 
+Gestion des repas : Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Patrimoine et Gastronomie en Dordogne</NomSejour>
 <DateDebut>20260706</DateDebut>
@@ -85,7 +236,26 @@
 <Prix_Sejour>1706</Prix_Sejour>
 <Autonomie>A311 - C421 MR</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASO55G7075HILARIE##20220128_195608.jpg</PHOTO1>
+        <Theme>Gastronomie</Theme>
+        <Theme>été</Theme>
+        <Theme>culturel</Theme>
+        <Theme>campagne</Theme>
+        <Publication_Annonce>Vacances dédiées à la découverte des paysages de la Dordogne et de sa richesse gastronomique
+
+Au programme:
+Visite de la reproduction des grottes de Lascaux et de son musée. Balade dans différents jardins ; Jardins de Marqueyssac et Jardins d’eau de Carsac-Aillac. Et promenade à la cité médievale de Sarlat-La-Canéda. Visite possible de différents châteaux tels que le Château de Commarque, de Milandes, Castelnaud et le cloître de Cadouin. Visite du parc du Bournat. Possibilité si vous le souhaitez de visiter les noyeraies du Lander. Balade au musée du chai de Lardimalie, découverte de la vigne et de son vin. Visite de l’aquarium du Périgord noir. Marchés, animations locales, et dégustations de produits locaux (truffes, foie gras, noix, vins, etc.)
+Hébergement : 
+
+Le moulin à vent Chez Eva” bénéficie d’un grand espace de vie, d’un espace télé et jeux de société. Un filet suspendu pour faire la sieste, une magnifique terrasse face à la nature. Piscine et jacuzzi. 4 chambres dont 3 PMR.
+
+Label :  Labelisé Tourisme et Handicap.
+Gestion des repas : Demi pension
+Nombre de participants : 4
+Nombre d'accompagnateurs : 2
+Nombre de Nuits : 5</Publication_Annonce>
+<Participants>4</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Farniente à la plage à Oléron</NomSejour>
 <DateDebut>20260706</DateDebut>
@@ -93,7 +263,30 @@
 <Prix_Sejour>1483</Prix_Sejour>
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASIKR3675LOUISE##ile-oleron-lm-evasion.jpg</PHOTO1>
+        <Theme>Mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Séjour dédié à la détente en bord de mer
+
+Programme:
+Partez découvrir la côte Oléronaise et observez les îles voisines, faîtes le tour du célèbre Fort Boyard lors d'une croisière en bateau commentée.
+
+Profitez d'une dégustation de fruits de mer et dinez dans un restaurant aux saveurs locales.
+
+Baignade, farniente sur la plage et à la piscine.
+
+Partez également visiter Saint-Georges d'Oléron.
+
+Hébergement : 
+“Camping les Gros Joncs”, situé le long de la côte sauvage à 200 mètres de la plage. 2 chalets PMR Oyat, 4 chambres. Bar-Restaurant, piscine, animations ''karaoké, concert, quizz''. 
+
+Label :  5 étoiles, Tourisme et Handicap, Qualité Tourisme, Camping qualité.
+Gestion des repas : Pension-complète
+Nombre de participants : 4
+Nombre d'accompagnateurs : 2
+Nombre de Nuits : 4</Publication_Annonce>
+<Participants>4</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Côte Normande</NomSejour>
 <DateDebut>20260706</DateDebut>
@@ -102,7 +295,24 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUI55433975HILARIE##IMG-20250712-WA0002.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVOMP5575LOUISE##IMG-20250515-WA0003.jpg</PHOTO2>
+        <Theme>mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Vacances entre plage et nature, venez découvrir les panoramas de la Normandie
+
+Au programme: 
+Visite de la cathédrale de Rouen. Visite du Palais Bénédictine et expérience interactive et sensorielle de création de la liqueur Bénédictine. Balade en bateau à Honfleur. Visite du parc à Bisons en camion militaire au Parc Canadien de Muchedent. Visite de la ville d’Honfleur et de ses petites boutiques. Balade sur les planches de la plage de Deauville. Promenade sur la digue et plage de Fecamp. Marchés, animations locales. 
+
+Hébergement : 
+“Domaine des Hellandes”, gîte de groupe Le Pressoir, espace d'accueil implanté dans le parc du Domaine des Hellandes, au cœur du pays de Caux, vous attend dans un environnement de verdure et de vallons. 6 chambres dont 4 PMR. 
+
+Label :  Label Gîte de France, Ethic Etape.
+Gestion des repas : Pension complète
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 5</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Balade sur la Côte a l'Ile de Ré</NomSejour>
 <DateDebut>20260710</DateDebut>
@@ -111,7 +321,29 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVOOK9675LOUISE##IMG_20210522_163359.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASN53428575HILARIE##Loire-Atlantique.jpeg</PHOTO2>
+        <Theme>Mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Une semaine complète dédiée aux activités en bord de mer, au repos et au farniente
+
+Au programme : 
+Balades le long de la côte Atlantique via des chemins adaptés.
+Escale en bateau sur la jolie Ile d’Aix, découverte de l’artisanat, des savoir-faire traditionnels, de la récolte du sel ou encore de l’élevage des huitres.
+
+Balade à la Rochelle, découverte de la ville, visite de l’aquarium.
+
+Le séjour sera également consacré au farniente sur la plage, la baignade en tiralo ou encore la découverte de l’architecture de l’île avec ses phares et musées. 
+
+Hébergement :  
+Gîte “La Clavette – Le phare”, au premier étage avec accès par ascenseur ou escalier, vue directe sur la mer. 4 chambres PMR . 
+
+Label :  Labelisé 2 étoiles, Tourisme et Handicap.
+Gestion des repas : Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Sur la Côte d'Emeraude - Bretagne</NomSejour>
 <DateDebut>20260711</DateDebut>
@@ -120,7 +352,34 @@
 <Autonomie>A111 - B222 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVKJR5775LOUISE##P1030110.JPG</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVKI594575LOUISE##IMG_20190429_133326.jpg</PHOTO2>
+        <Theme>Mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Vacances dédiées à la découverte de la Baie du Mont St Michel 
+
+Au programme:
+Nous vous proposons de venir découvrir la baie de Saint Malo à bord d'une balade en bateau. La cité corsaire de Saint Malo l'une des plus belles villes de France. Visite de son incroyable aquarium.
+
+Pour les bons marcheurs, visite de l'Abbaye et émerveillement face au Mont-Saint-Michel.
+
+Plusieurs balades vous seront proposées : découverte de la ville médiévale de Dinan, balade le long de la côte d'Emeraude, du Cap d'Erquy ou encore du Cap Fréhel. Balade au coeur des stations balnéaires de Saint Briac, Dinard ou encore Cancale.
+
+Le séjour sera l'occasion de découvrir une ferme ostréicole avec dégustations pour ceux qui le souhaitent.
+
+Baignade possible pour ceux qui le désirent.
+
+Flâner dans les marchés locaux et découverte des danses traditionnelles bretonnes
+
+Hébergement : 
+“Gîte de la Bourdonnière”, au calme à la campagne, grand jardin de 1000m² avec une jolie terrasse. 4 chambres, dont une PMR. 
+
+Label :  Label Gîte de France et Tourisme et Handicap.
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Les Secrets de l'Atlantique en Charente Maritine</NomSejour>
 <DateDebut>20260712</DateDebut>
@@ -129,7 +388,26 @@
 <Autonomie>A311 - C421 MR</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVM56KX75LOUISE##20220902_131607.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVM56594275LOUISE##mer-handicap-moteur-vacances-lm-evasion.jpg</PHOTO2>
+        <Theme>Mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Vacances dédiées au farniente 
+
+Au programme: balade dans le village de Barzan  en longeant le port des Monards et découverte du Marais et du parc de de l’estuaire.
+Visite de Talmont sur Gironde à pieds, un village classée parmi les plus beaux de France.
+
+Des balades sur le front de mer et dans les stations balnéaires de la côte. Découverte de Mechers avec son port et ses sentiers. Le séjour sera l’occasion de se promener sur le site gallo-romain du Fâ. Farniente, baignade à la plage, marché et dégustations locale. Une balade en bateau sera prévue ainsi qu’une visite des parcs à huitres et du célèbre. Zoo de la Palmyre. 
+
+Hébergement :
+“Au chemin des grandes Mottes”. Gîte spacieux, avec grand jardin et terrasse. 4 chambres dont 2 PMR. Terrain de pétanque. 7km des plages. 
+
+Label :  Label Gîte de France.
+Gestion des repas :  Demi pension
+Nombre de participants : 4
+Nombre d'accompagnateurs : 2
+Nombre de Nuits : 5</Publication_Annonce>
+<Participants>4</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>A la Mer en vendée</NomSejour>
 <DateDebut>20260713</DateDebut>
@@ -138,7 +416,25 @@
 <Autonomie>A311 - C421 MR</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVNZ285375LOUISE##IMG-20250622-WA0003.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVM59V7875LOUISE##IMG-20251007-WA0074.jpg</PHOTO2>
+        <Theme>Mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Vacances dédiées au farniente et à la détente en bord de mer
+
+Un séjour dédié au repos et au farniente avec plusieurs activités en perspective. Possibilité de pêche à pieds, visite des marais salants.
+
+Possibilité de vélo rail pour les sportifs. Visite de Noirmoutier et découverte du passage du Gois, site emblématique. Balades au cœur des stations balnéaires comme St Gilles croix de vie, Sables d'Olonne, St-Hilaire de Riez. Baignades et détente à la plage, promenades aux marchés de jours et nocturnes, concerts, et animations dans les rues seront au rendez-vous.
+
+Hébergement : 
+“Domaine de la Morinière”, gîte très spacieux avec terrasse et jardin. 4 chambres PMR.
+
+Label :  Label Tourisme et Handicap
+Gestion des repas : Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 4</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Traditions Basques dans les Landes</NomSejour>
 <DateDebut>20260713</DateDebut>
@@ -147,7 +443,26 @@
 <Autonomie>A311 - C421 MR</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASOL583175HILARIE##Pays Basques.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASOO447275HILARIE##IMG-20250901-WA0098.jpg</PHOTO2>
+        <Theme>Culturel</Theme>
+        <Theme>mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Séjour consacré à la découverte du Pays Basque et des Landes, leurs traditions et les ambiances festives
+
+Au programme: plusieurs visites : musée basque de Bayonne et écomusée de Marqueze. Balade en bateau pour découvrir la côte landaise.
+Visite de Biarritz, son musée de l’océan et son aquarium. Balade en calèche au coeur de la forêt de pins qui recouvre une bonne partie des Landes.
+
+Partez à la découverte de la ville de Dax avec sa fontaine d'eau chaude, ses arènes et ses berges de l’ Adour. Assistez aux spectacles folklores landais et basques à Vieux Boucau ainsi qu'aux courses landaises dans les arènes. Baignade et farniente
+
+Hébergement : 
+“Gîte de la Bergerie”, situé en plein cœur de la forêt landaise. Terrasse extérieure, espace détente avec jacuzzi et transats. 4 chambres PMR, chaque chambre à la TV, sa salle de bain et son WC.
+
+Gestion des repas : Gestion libre
+Nombre de participants : 4
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 11</Publication_Annonce>
+<Participants>4</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Terre &amp; Mer en Loire Atlantique</NomSejour>
 <DateDebut>20260717</DateDebut>
@@ -156,7 +471,25 @@
 <Autonomie>A111 - B222 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUIX398275HILARIE##WhatsApp Image 2024-08-07 à 11.43.04_66b26235.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUI25556275HILARIE##IMG-20230620-WA0039.jpg</PHOTO2>
+        <Theme>Campagne</Theme>
+        <Theme>été</Theme>
+        <Theme>animaux</Theme>
+        <Publication_Annonce>Séjour dédié aux amoureux de la nature et des animaux
+
+Au programme: de multiples activités en lien avec la vie de la ferme : contact avec les animaux, leur donner à manger et traite des vaches.
+Balade en calèche dans les marais salants. Le séjour sera l’occasion de découvrir la jolie ville de Nantes, balade en bateau sur le fleuve. Visites des jolis villages typiques tels que Châteaubriant, marchés et dégustations des produits locaux. Profitez de l’air marin et ressourcez vous lors d'une balade à la mer.
+
+Hébergement : 
+“Gîte de la Cour” à la ferme de Derval, hébergement au coeur de la ferme pédagogique. Salle à manger avec cuisine ouverte, babyfoot, grand espace extérieur. 4 chambres. 
+
+Label : Label Gîte de France, Agri Bio et Bienvenue à la ferme.
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 6</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Relaxation en Lozère</NomSejour>
 <DateDebut>20260718</DateDebut>
@@ -165,7 +498,32 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVOU492575LOUISE##Image54.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASOR57V75HILARIE##handicap-relaxation-lm-evasion.jpg</PHOTO2>
+        <Theme>été</Theme>
+        <Theme>détente &amp; bien-être</Theme>
+        <Publication_Annonce>Séjour dédié à la détente et la relaxation pour les personnes qui souhaitent se faire masser et cocooner
+
+Programme:
+Deux moments de détente avec massages ou soins sur le lieu d’hébergement. Les prestations seront choisies par les vacanciers.
+
+Balade sur le célèbre viaduc de Millau et visite de son musée.
+
+Balade en bateau au sein des raspes du Tarn.
+
+Visites de multiples villages typiques comme Marvejols et St Enimie. Découverte du parc des Cévennes. Admiration du panorama au point de vue de la sublime.
+
+Marchés et animations locales, détente au sein de l’espace bien être de l’hébergement. 
+
+Hébergement : 
+Village de 2 gîtes “les Hauts du Gévaudan”, communicants, situé en bordure de forêt, dominant la vallée. Le Village vacances propose une salle de restauration, une salle de sport, balnéo, piscine et gymnase. 4 jolies chambres PMR .
+
+Label :  Labélisé 3 étoiles, Tourisme et Handicap
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 4
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>A deux pas de la Mer en Loire Atlantique</NomSejour>
 <DateDebut>20260720</DateDebut>
@@ -174,7 +532,32 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVOW25R75LOUISE##Loire Atlantique 2.jpeg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASP39267475HILARIE##IMG_6047.JPG</PHOTO2>
+        <Theme>mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Vacances dédiées à la farniente et à la détente en bord de mer
+
+Au programme : 
+Balades dans diverses stations balnéaires telles que Pornic, Saint Brevin les Pin. Balade le long de la côte de Jade.
+
+Balade en bateau à Pornic.
+
+Visite des marais salants de Guérande en calèche.
+
+Farniente et baignade à la plage et à la piscine.
+
+Marchés et animations locales.
+
+Hébergement : 
+Le gîte “Ecume de mer” , éco gîte, vous accueillera dans un bel espace. Grand espace extérieur, à 200m de la plage. 4 chambres dont 3 PMR, chacune dispose de sa salle de bain et son WC.
+
+Label :  Label Gîte de France, Tourisme et Handicap,
+Gestion des repas : Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 6</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Séjour festif en Vendée</NomSejour>
 <DateDebut>20260725</DateDebut>
@@ -183,7 +566,33 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO3145L75LOUISE##20170823_155336.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO29QD75LOUISE##IMG-20250721-WA0098.jpg</PHOTO2>
+        <Theme>été</Theme>
+        <Theme>mer</Theme>
+        <Theme>camping</Theme>
+        <Theme>spectacles &amp; festivals &amp; parcs</Theme>
+        <Publication_Annonce>Séjour dédié à la fête, au farniente et la détente en bord de mer
+
+Au programme: 
+Découverte des stations balnéaires telles que les Sables d’Olonne ou encore Talmont Saint Hilaire.
+
+Plusieurs activités vous seront proposées : Visite de l’Aquarium, découverte du Zoo des Sables, balade en bateau dans les marais salants, le château des énigmes.
+
+Baignade et farniente à la plage.
+
+Balade sur les marchés, animations du camping et festivités locales.
+
+Hébergement :
+Camping Préveil”, 2 mobil homes PMR + 1 mobile home premium, 6 chambres dont 4 PMR. 
+Parc aquatique, piscine chauffée et adapté avec un siège de mise à l’eau. Accès direct à la plage, terrain multisport, terrain de pétanque et animations du camping.
+
+Label : Label Tourisme et Handicap.
+Gestion des repas :  Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 5</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Au Galop vers l'Ouest en Gironde</NomSejour>
 <DateDebut>20260725</DateDebut>
@@ -192,7 +601,25 @@
 <Autonomie>A111 - B222 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASQZBZ75HILARIE##hio6.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASQAJ7375HILARIE##ndfyhs6.jpg</PHOTO2>
+        <Theme>Equestre</Theme>
+        <Theme>été</Theme>
+        <Theme>camping</Theme>
+        <Theme>mer</Theme>
+        <Publication_Annonce>Séjour dédié à la découverte du monde Western
+
+Au programme, visite de stations balnéaires comme Lacanau ou Lège Cap Ferret. Balade à bord d’un catamaran avec apéro et repas buffet. Contact avec les chevaux, possibilité de monter à cheval pour ceux qui le souhaitent. Activités du Village Vacances (initiation au lasso, atelier création avec divers éléments, etc.) Farniente et baignade à la piscine et à la plage. Soirées animées du Village Vacances (danses folkloriques américaines, pool party.) Marchés et animations locales. 
+
+Hébergement : 
+“Le Village Western”, 2 cottages, 5 chambres, dans un village vacances sur le thème Western avec diverses activités. Espace bien être intérieur avec bain chauffé, piscine extérieure.
+
+Label :  
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 6</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Festival Interceltique en Bretagne</NomSejour>
 <DateDebut>20260801</DateDebut>
@@ -201,7 +628,35 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJASQVC7475HILARIE##OIP.webp</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO33UN75LOUISE##voyages-handicap-adaptes-lm-evasion.jpg</PHOTO2>
+        <Theme>été</Theme>
+        <Theme>mer</Theme>
+        <Theme>spectacles &amp; festivals &amp; parcs</Theme>
+        <Publication_Annonce>Séjour pour ceux qui aiment la culture bretonne entre musique et partage !
+
+Programme:
+Profitez pleinement du célèbre festival interceltique de Lorient sur plusieurs jours.
+
+Pour les amateurs de chansons, possibilité de créer une chanson pour notre association. Soirée thématique musicale au gite ou soirée Karaoké, blind test.
+
+Une balade en bateau à la découverte des terres bretonnes. Et possibilité si vous le désirez de visiter la cité de la voile.
+
+Visites de Lorient, et de Concarneau. Découvrez la pointe de st Gildas de Rhuis et la presqu’ile de Quiberon. Balade sur la côte ainsi qu’au massif dunaire d’Erdeven
+
+Farniente et baignade à la plage seront au rendez-vous.
+
+Marchés et dégustations locales: langoustines, gâteaux bretons, galettes, kouign-amann, etc. 
+
+Hébergement : 
+EcoGîte “La Petite Presqu’île” situé sur les rives de la Ria d’Etel.  Grand espace de vie et extérieur. Petites criques et plages proches du gîte. 5 chambres avec TV dont 2 PMR.
+
+Label :  Gîte labélisé gite de France, 4 épis, prix ‘’coup de coeur’’, Tourisme et Handicap.
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 4
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Patrimoine Périgourdain en Dordogne</NomSejour>
 <DateDebut>20260801</DateDebut>
@@ -210,7 +665,24 @@
 <Autonomie>A111 - B222 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJATIAJ8975HILARIE##IMG-20250723-WA0243.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJATIA48A75HILARIE##IMG-20250723-WA0251.jpg</PHOTO2>
+        <Theme>Culturel</Theme>
+        <Theme>été</Theme>
+        <Theme>campagne</Theme>
+        <Publication_Annonce>Séjour dédié à la découverte de la région du Périgord Noir et aux animations du camping 
+
+Au programme, visites culturelles telles que la visite des grottes de Lascaux et du Château de Puymartin. Balade dans les jardins de Marqueyssa avec la célèbre soirée “chandelles” le jeudi soir de 19h à minuit. Découverte des Jardins d’eau de Carsac-Aillac, du chemin de fer du Haut Quercy et de la réserve zoologique de Calviac. Plusieurs villes pourront être visitées comme la ville de Sarlat-La-Canéda ou encore celle de la Roque-Gageac. Le séjour sera également consacré à la détente et à l’amusement en profitant des infrastructures du camping, des marchés et des animations locales.
+
+Hébergement : 
+“Camping Les Granges”, 1 mobil home tribu avec une grande terrasse, 6 chambres. Espace aquatique avec toboggans dont un spacebowl, double slide.
+
+Label :  Labélisé 4 étoiles
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Terre des Bigoudins en Bretagne</NomSejour>
 <DateDebut>20260801</DateDebut>
@@ -219,7 +691,24 @@
 <Autonomie>A111 - B222 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVKPWF75LOUISE##IMG_20210602_152636.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVM2846G75LOUISE##IMG_0419.HEIC</PHOTO2>
+        <Theme>été</Theme>
+        <Theme>camping</Theme>
+        <Theme>mer</Theme>
+        <Publication_Annonce>Séjour dédié à la découverte de la Bretagne, sa culture et ses danses traditionnelles
+
+Au programme, balade sur la presqu’ile de Quiberon, au port de Saint Goustan à Auray, sur le Port Navalo ou encore à Saint Armel. Découverte des marchés locaux, dégustations de produits régionaux et animations locales avec musique et danse Bretonne. Farniente à la plage et au sein du camping. Balade en bateau autour du Golf, balade sur l’ile d’Artz et découverte des marais salants de Lasné.
+
+Hébergement : 
+2 mobil homes avec 2 chambres chacun au sein du Village Vacances “La Pierre Bleue”. Restaurant, bar, salle de remise en forme, hammam, piscine couverte et chauffée. Chaque soir, des animations sont proposées (quizz, karaoké). 
+
+Label : Label Tourisme et Handicap.
+Gestion des repas :  Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Autour des Volcans en Auvergne</NomSejour>
 <DateDebut>20260803</DateDebut>
@@ -228,7 +717,23 @@
 <Autonomie>A311 - C421 MR</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJATIIQ3575HILARIE##IMG-20250818-WA0140.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVNB283175LOUISE##IMG-20230725-WA0008.jpg</PHOTO2>
+        <Theme>Montagne</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Vacances dédiées à la découverte des volcans d'Auvergne
+
+De jolies surprises vous attendent : balade en train à crémaillère vous offrant un panorama à couper le souffle avec un point de vue à 360 degrés sur les chaînes volcaniques des dômes. Le train vous amènera au sommet du Puy de Dôme. Venez découvrir le musée de Vulcania ; parc d'attraction, ateliers enrichissants permettant de mieux comprendre le fonctionnement des volcans et de la planète terre. Visite d'une fabrique de fromages. Farniente au bord du lac de Chambon. Découverte des produits régionaux, marché du terroir, animations et festivités locales. 
+
+Hébergement : 
+Gîte “Le Mont”, gîte de plein pied, avec un grand espace de vie, situé dans le parc naturel régional des volcans d’Auvergne. 4 chambres PMR. 
+
+Label :  Labelisé 4 étoiles.
+Gestion des repas : Pension complète
+Nombre de participants : 4
+Nombre d'accompagnateurs : 2
+Nombre de Nuits : 5</Publication_Annonce>
+<Participants>4</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Traditions Basques dans les Landes</NomSejour>
 <DateDebut>20260803</DateDebut>
@@ -237,7 +742,37 @@
 <Autonomie>A111 - B221 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVJ54322575LOUISE##IMG-20211025-WA0030.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVJ52472575LOUISE##Pays Basques.jpg</PHOTO2>
+        <Theme>Culturel</Theme>
+        <Theme>mer</Theme>
+        <Theme>camping</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Séjour consacré à la découverte du Pays Basque et des Landes, leurs traditions et les ambiances festives
+
+Au programme:
+Plusieurs visites : musée basques de Bayonne et écomusée de Marqueze. Balade en bateau pour découvrir la côte landaise.
+
+Visite de Biarritz, son musée de l’océan et son aquarium. Balade en calèche au coeur de la forêt de pins qui recouvre une bonne partie des Landes.
+
+Partez à la découverte de la ville de Dax avec sa fontaine d'eau chaude, ses arènes et ses berges de l’Adour.
+
+Assistez aux spectacles folklores landais et basques de Vieux Boucau ainsi qu'aux courses landaises dans les arènes.
+
+Baignade, farniente à Vieux Boucau ou à la base de loisirs de Marsan (site handiplage). Découverte de stations balnéaires telles que Capbreton et Hossegor.
+
+Marché nocturne de Soustons et ses dégustations.
+
+Pour ceux qui le souhaitent, surf adapté, ou possibilité de massages (avec supplément). 
+
+Hébergement : 
+“Gîte de la Bergerie”, situé en plein cœur de la forêt landaise. Terrasse extérieure, espace détente avec jacuzzi et transats. 4 chambres PMR, chaque chambre à la TV, sa salle de bain et son WC.
+
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 11</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Autour des volcans en Auvergne</NomSejour>
 <DateDebut>20260808</DateDebut>
@@ -245,7 +780,25 @@
 <Prix_Sejour>1532</Prix_Sejour>
 <Autonomie>A111 - B222 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJATINS6975HILARIE##IMG-20250820-WA0141.jpg</PHOTO1>
+        <Theme>Montagne</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Vacances dédiées à la découverte des volcans d'Auvergne
+
+De jolies surprises vous attendent : balade en train à crémaillère vous offrant un panorama à couper le souffle avec un point de vue à 360 degrés sur les chaînes volcaniques des dômes. Le train vous amènera au sommet du Puy de Dôme. Venez découvrir le musée de Vulcania ; parc d'attraction, ateliers enrichissants permettant de mieux comprendre le fonctionnement des volcans et de la planète terre. Profitez d'une balade au centre du volcan de Lemptegy en petit train et découvrez 2 attractions vidéo en 3D qui vous permettront d'être en immersion au cœur des volcans.
+
+Visite d'une fabrique de fromages, et farniente au bord du lac de Chambon. Découverte des produits régionaux, marché du terroir, animations et festivités locales. 
+
+Hébergement : 
+“Chalet de Catherine”, grand chalet de 160m2, avec terrasse au coeur du Massif de Sancy. 5 chambres dont une PMR. 
+
+Label :  Label Gîte de France.
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 6</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Séjour festif en Vendée</NomSejour>
 <DateDebut>20260809</DateDebut>
@@ -254,7 +807,37 @@
 <Autonomie>A111 - B221 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJATI25R6175HILARIE##WhatsApp Image 2025-07-31 à 11.57.02_310f50a8.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJATI2537M75HILARIE##,djfjtr3.jpg</PHOTO2>
+        <Theme>Spectacles</Theme>
+        <Theme>mer</Theme>
+        <Theme>spectacles &amp; festivals &amp; parcs</Theme>
+        <Theme>camping</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Séjour dédié à la bonne humeur, au farniente et à la détente en bord de mer
+
+Au programme:
+Découverte des stations balnéaires telles que les Sables d’Olonne ou encore Talmont Saint Hilaire.
+
+Plusieurs activités vous seront proposées :
+
+Venez vous amuser au sein du célèbre parc aquatique O'gliss Park, visite de l’Aquarium , découverte du Zoo des Sables, balade en bateau dans les marais salants. Le château des aventuriers.
+
+Baignade et farniente à la plage.
+
+Balade sur les marchés, animations du camping et festivités locales.
+
+Hébergement : 
+“Camping Préveil”, 2 mobil-homes Premium, 6 chambres. Parc aquatique, piscine chauffée .
+
+Accès direct à la plage, terrain multisport, terrain de pétanque et animations du camping. 
+
+Label :   Labélisé 4 étoiles, Tourisme et Handicap
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 5</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Camping Paradis Charente-Maritime</NomSejour>
 <DateDebut>20260809</DateDebut>
@@ -263,7 +846,24 @@
 <Autonomie>A111 - B222 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVM35286675LOUISE##camping-paradis-ouv.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVM36Q7175LOUISE##IMG-20251007-WA0092.jpg</PHOTO2>
+        <Theme>camping</Theme>
+        <Theme>été</Theme>
+        <Theme>mer</Theme>
+        <Publication_Annonce>Vacances dédiées à la bonne humeur, au farniente farniente et à la détente en bord de mer
+
+Au programme, une balade en bateau, visite du célèbre Zoo de la Palmyre qui regroupe plus de 110 espèces d'animaux différents. Visite de Planet exotica, un zoo parc exotique sur 7,6 hectares de serres tropicales et désertiques. Découvrez les villages d'artistes et d'artisans sur la côte, visite du magnifique village de Mornac sur Seudre et flânez dans les boutiques de Royan et St Palais sur Mer. Dégustations de fruits de mer dans le restaurant "Le Pilotis" à volonté au port de la Tremblade. Baignade, farniente, marchés et animations locales. Pour ceux qui le souhaitent, possibilité de massages au sein du camping (avec supplément).
+
+Hébergement : 
+“Camping Paradis les Pins”, situé à 5 minutes à pieds de la plage. 2 mobil homes Eden Family - 34m² - 6 chambres. Plusieurs piscines dont une couverte et chauffée avec spa. Camping inspiré, avec son ambiance et son label de la série télé Camping Paradis. Soirées animées chaque jour (karaoké, loto, danse, blind test). .
+
+Label : Labélisé 4 étoiles, Tourisme et Handicap
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 6</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>EVASION VENDEENNE</NomSejour>
 <DateDebut>20260811</DateDebut>
@@ -272,7 +872,24 @@
 <Autonomie>A111 - B121 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVJX57G75LOUISE##WhatsApp Image 2024-08-07 à 13.32.21_c992af0d.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUH58L9575HILARIE##IMG-20250923-WA0192.jpg</PHOTO2>
+        <Theme>été</Theme>
+        <Theme>camping</Theme>
+        <Publication_Annonce>Voyage à la découverte du bocage vendéen, de la nature
+
+Pour ce séjour, nous vous proposons de venir découvrir la Sèvre Nantaise à bord d'un canoë si vous le souhaitez, et de découvrir les marais poitevins lors d'une visite commentée en bateau. Le séjour sera l'occasion de découvrir le célèbre parc du Puy du Fou durant une journée.
+Une journée sera consacrée à la mer afin de profiter de l'air marin et de vous ressourcer. Possibilité de pêche à deux pas de l'hébergement pour ceux qui le souhaitent. Baignade, farniente, marchés et animations locales seront au rendez-vous.
+
+Hébergement : 
+“Gîte le Moulin de Poupet”, offrant un cadre verdoyant au bord de la Sèvre Nantaise. Grand espace de vie, avec très grande terrasse. 4 chambres avec salle de bain et TV. Piscine couverte et chauffée, animation au sein du camping de la Vallée de Poupet.
+
+Label : Labelisé 4 étoiles
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 6</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Coquillages &amp; Crustacés en Charente-Maritime</NomSejour>
 <DateDebut>20260815</DateDebut>
@@ -281,7 +898,34 @@
 <Autonomie>A111 - B222 PSM</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAMK37299275LOUISE##ile-oleron-lm-evasion (2).jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUIA45R75HILARIE##IMG-20250715-WA0280.jpg</PHOTO2>
+        <Theme>mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Séjour dédié à la détente en bord de mer
+
+Au programme:
+De multiples activités. Une croisière en bateau autour de Fort Boyard.
+
+Découverte des savoir-faire traditionnels, visite du musée de l’huître et découverte du site d’ostréicole.
+
+Balade à bord du petit train de Saint Trojan. Possibilité de pêche à pied.
+
+Visite de l’île d’Oléron avec ses célèbres cabanes de créateur, le jardin de la Boirie, le Château d’Oléron et sa citadelle.
+
+Possibilité de visiter l’aquarium de la Rochelle et/ou du Zoo de la Palmyre.
+
+Baignade et farniente à la plage, marchés locaux et animations locales.
+
+Hébergement : 
+Village vacances “La Martière” : 2 pavillons de 42m² avec 2 chambres chacun. Piscine, bar, salle de jeux, TV, table de ping-pong, billard et baby-foot à disposition. L’hébergement est situé à 2km des plages. 
+
+Label : Labelisé 3 étoiles et Tourisme et Handicap.
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Grand bleu vendéen</NomSejour>
 <DateDebut>20260815</DateDebut>
@@ -290,7 +934,30 @@
 <Autonomie>A111 - B221 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVJ42A9475LOUISE##IMG-20250622-WA0003.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVJ43256675LOUISE##IMG-20250818-WA0290.jpg</PHOTO2>
+        <Theme>mer</Theme>
+        <Theme>été</Theme>
+        <Theme>calme</Theme>
+        <Publication_Annonce>Séjour dédié à la bonne humeur, au farniente farniente et à la détente en bord de mer
+
+Au programme
+Découverte des stations balnéaires telles que les Sables d’Olonne ou encore Talmont Saint Hilaire.
+
+Plusieurs activités vous seront proposées :Visite de l’Aquarium, découverte du Zoo des Sables, balade en Bateau dans les marais salants.
+
+Baignade et farniente à la plage.
+
+Balade sur les marchés, animations et dégustations de produits locaux.  
+
+Hébergement : 
+“Maison Trucmeni”, grand pavillon avec jardin, elle dispose d’une terrasse pour profiter des douces soirées d’été. 5 chambres. Située à 500 mètres de la plage.
+
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 6</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Montagne autrement en Hautes-Pyrénées</NomSejour>
 <DateDebut>20260816</DateDebut>
@@ -299,7 +966,37 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO34455975LOUISE##WhatsApp Image 2024-08-08 à 19.57.12_20d019f3.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO34S7475LOUISE##366078239_851767256417770_5661477859627279017_n (1).jpg</PHOTO2>
+        <Theme>été</Theme>
+        <Theme>montagne</Theme>
+        <Theme>séjours sportifs</Theme>
+        <Publication_Annonce>Vacances dédiées à la découverte de la montagne autrement à travers des activités innovantes, à sensations
+
+Programme:
+Sensations garanties : Rafting afin de profiter d’une superbe vue. Initiation au Cimgo pour admirer les panoramas. Funiculaire pour admirer le pic du Jers.
+
+Visite du parc de loisirs du Hautacam (Moutain Luge, zyppy Bike, réalité virtuelle à sensations, etc.)
+
+Possibilité d'une séance de parapente qui vous permettra de survoler le massif montagneux (supplément).
+
+Découverte d'une meute de chiens de traineaux.
+
+Visites de villages authentiques tels que Saint Savin et Luz Saint Sauveur.
+
+Nombreuses promenades dans le parc national des Pyrénées, balade dans la vallée d’Azun, admiration du cirque de Gavarnie ou bien encore du col de Tourmalet. Balade au lac d'Estaing.
+
+En fonction des envies de chacun, une journée à Lourdes est envisageable.
+
+Hébergement : 
+Gîte “A Cœur d’Hêtre “, niché à 1000 mètres d’altitude au pied du Pic du midi d’Arrens au cœur des montagnes pyrénéennes. Spa exterieur.4 chambres dont 3 PMR avec TV.
+
+Label : Labelisé 4 étoiles et Tourisme et Handicap.
+Gestion des repas : Demi pension
+Nombre de participants : 6
+Nombre d'accompagnateurs : 4
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Evasion Côte d'Azur</NomSejour>
 <DateDebut>20260821</DateDebut>
@@ -308,7 +1005,27 @@
 <Autonomie>A311 - C421 MR</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUI29546475HILARIE##54052393673_d9ce122368_o.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVNEX4475LOUISE##IMG_6892.HEIC</PHOTO2>
+        <Theme>mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Séjour dédié à la découverte du sud de la France, entre farniente et détente
+
+Balade en bateau dans les criques de Giens avec baignade et farniente dans un endroit paradisiaque. Petite croisière bateau à la découverte du parc national des calanques de Marseille jusqu'à Cassis. Pour ceux qui le souhaitent et avec un supplément, les vacanciers pourront faire du parachute ascensionnel, ou aller à la rencontre des dauphins et des cachalots. Balade à Hyères les Palmiers jusqu'à la presqu'île de Giens. Découverte de petites stations balnéaires typiques comme St Cyr sur mer, Sanary ou encore le Lavandou. Farniente et baignades. Profitez des festivités locales et du camping.
+
+Hébergement : 
+“Les Jardins de Pascalinette”, 3 mobil-homes privilège. Camping avec parc aquatique de 2000m² et 4 piscines chauffées. 
+
+Trajet aller : Hôtel Ibis St Etienne
+
+Trajet retour : Hôtel Ibis Clermont Ferrand
+
+Label : Labelisé 4 étoiles, Tourisme et Handicap.
+Gestion des repas :Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 8</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Baie des Phoques dans la Somme</NomSejour>
 <DateDebut>20260821</DateDebut>
@@ -317,7 +1034,34 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO37576475LOUISE##PXL_20240918_121121799.RAW-01.COVER.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO38U6175LOUISE##IMG-20240913-WA0188.jpg</PHOTO2>
+        <Theme>mer</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Séjour dédié à la découverte du Littoral de la Picardie, avec l’observation des phoques
+
+Au programme : 
+Balade en train de la baie de Somme entre marais et prairies. Admirez la faune, les  oiseaux de mer, les moutons de prés-salés ou encore les chevaux de race Henson.
+
+Balade en bateau Commandant Charcot III, un moment reposant et original avec possibilité d’observer des phoques (fauteuil manuel uniquement).
+
+Explorez le parc de Marquenterre avec sa beauté naturelle.
+
+Balade  au Crotoy (village de pêcheurs) Visite de la ville médiévale de Saint Valery sur Somme.
+
+Observation des phoques à la pointe du Hourdel et balade le long des cabines de Cayeux sur Mer.
+
+Visite de la confiserie Le Succès Berckois. 
+
+Hébergement : 
+Gîte “Papillon et Gîte Libellule”, 2 gîtes de plain pied. Grand espace de vie. 4 chambres PMR. 
+
+Label : Label Tourisme et Handicap.
+Gestion des repas : Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Séjour équestre en Loire-Atlantique</NomSejour>
 <DateDebut>20260822</DateDebut>
@@ -326,7 +1070,24 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUI37592775HILARIE##IMG-20250827-WA0002.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO42529575LOUISE##P1011058.JPG</PHOTO2>
+        <Theme>equestre</Theme>
+        <Theme>été</Theme>
+        <Theme>campagne</Theme>
+        <Publication_Annonce>Vacances dédiées aux personnes aimant les chevaux et le monde équestre
+
+3 activités équestres seront organisées pendant la semaine à la ferme équestre "Crinière du vent": deux balades à cheval (équi-lève pour PMR), contact avec l'animal, brossage et parcours moteur ainsi qu’une balade en calèche. Visite du village typique de Chateaubriant, marchés du terroir, dégustations des produits régionaux, animations et festivités locales. Farniente, baignade à la piscine et spa de l'hébergement. 
+
+Hébergement : 
+Gîte atypique “Une Pause au Logis”, spacieux, avec espace piscine et spa intérieur. 3 chambres PMR chaque chambre à la TV, sa salle de bain et son WC. + une mezzanine. Label piscine médaille d’or européenne.
+
+Label : 
+Gestion des repas : Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 5</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Echappée en Occitanie</NomSejour>
 <DateDebut>20260823</DateDebut>
@@ -335,7 +1096,25 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO25497875LOUISE##266381-Toulouse.webp</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVOX484475LOUISE##WhatsApp Image 2024-08-07 à 09.48.24_12750027.jpg</PHOTO2>
+        <Theme>culturel</Theme>
+        <Theme>été</Theme>
+        <Theme>campagne</Theme>
+        <Publication_Annonce>Embarquez non pas pour l’espace mais pour une aventure inoubliable entre ciel et terre
+
+Programme : 
+Au programme, visites de villes et villages typiques comme Albi, Cordes sur Ciel ou encore Saint Antonin Noble de Val en passant par la magnifique route de la Corniche afin d’admirer les gorges de l’Aveyron. Visite des monuments de Toulouse comme la célèbre place du Capitole éclairée la nuit, ou encore la basilique Saint-Servin. Croisière en bateau sur la Garonne pour découvrir la ville de Toulouse d’une autre manière. Farniente à la plage aménagée de Rabasters ou à la base de loisirs de Ludovac. Visite de la cité de l’Espace, à la découverte du centre de culture scientifique orienté vers l’espace et la conquête spatiale consacré également à l’astronomie et à l’astronautique. Possibilité de visiter le musée du chocolat à L’Isle sur Tarn.
+
+Hébergement : 
+Gîte “El Camillou”, gîte de plein pied entièrement rénové. Au coeur d’une petite ferme familiale avec un grand espace extérieur. 4 chambres PMR.
+
+Label : 
+Gestion des repas : Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>La Venise des Alpes au Lac d'Annecy</NomSejour>
 <DateDebut>20260824</DateDebut>
@@ -343,7 +1122,25 @@
 <Prix_Sejour>2455</Prix_Sejour>
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO44O9575LOUISE##Annecy 3.jpg</PHOTO1>
+        <Theme>montagne</Theme>
+        <Theme>été</Theme>
+        <Publication_Annonce>Vivez une escapade extraordinaire entre lac et montagne, entre aventure en plein air et découvertes culturelles.
+
+Au programme, barrer un voilier avec le cercle de voile de Sevrier, mise à disposition d’un bateau adapté. Une journée à Chamonix, au programme balade en téléphérique vous offrant un panorama à couper le souffle sur le Mont Blanc, une des plus hautes montagnes d’Europe. Balade le long du lac avec arrêts à différents points de vue. Découverte de la plage de Jorioz, de Sevrier et celle de Doussard qui sont des plages adaptées. Découverte de la réserve naturelle du lac, balade au fort de Tamié. Baignade et farniente seront au rendez-vous. 
+
+Hébergement : 
+Gîte “Chapo Julo”, grands espaces sur 140m² avec une salle d’activités, un coin cuisine et un grand séjour. 4 chambres dont 2 PMR. 
+
+Trajet retour : Hôtel B &amp; B Clermont Ferrand
+
+Label : Labelisé 3 étoiles, Tourisme et Handicap.
+Gestion des repas : Demi pension
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 8</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Gastronomie - Bordeaux</NomSejour>
 <DateDebut>20260929</DateDebut>
@@ -352,7 +1149,23 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO53259675LOUISE##1l.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO52M7275LOUISE##2a46254a-d1ef-4e58-a47b-356c15a45f06.jpg</PHOTO2>
+        <Theme>gastronomie</Theme>
+        <Theme>automne</Theme>
+        <Publication_Annonce>Vacances dédiées à la gastronomie et ceux qui souhaitent découvrir de nouvelles saveurs
+
+Rendez-vous sur la route du vin, visite d’un vignoble à Saint Emilion avec dégustations en plein coeur des vignes. Balade en bateau sur la Garonne à la découverte de Bordeaux : dégustation de vin avec ou sans alcool. Découverte du Cap Ferret ou la Test de Buch avec dégustation d'huîtres et de fruits de mer dans les petites cabanes en bois. Restaurant gastronomique le Quatrième mur du célèbre Chef Etchebest. Dégustation de cannelés Bordelais. Visite de Bordeaux.
+
+Hébergement : 
+“Hôtel Ibis”, Bordeaux centre Mériadeck. L'hôtel vous propose un restaurant, un bar et un grand espace convivial. Situé en plein cœur du centre ville. 4 chambres dont 3 PMR avec TV. 
+
+Label : Labelisé 3 étoiles.
+Gestion des repas : Pension complète
+Nombre de participants : 5
+Nombre d'accompagnateurs : 2
+Nombre de Nuits : 3</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Puy du Fou en Vendée</NomSejour>
 <DateDebut>20261003</DateDebut>
@@ -361,7 +1174,22 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO54465375LOUISE##20180615_161710.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUI57379975HILARIE##IMG-20250923-WA0225.jpg</PHOTO2>
+        <Theme>spectacles &amp; Festivals &amp; parcs</Theme>
+        <Publication_Annonce>Court séjour dédié à la découverte du meilleur parc au monde
+
+Un programme riche en émotions puisqu’il se composera de plusieurs spectacles grandioses. Le parc vous propulse à travers les siècles et vous fait découvrir l’histoire de la Vendée de manière ludique. Découverte du spectacle éphémère la Frairie de la Toussaint. Une soirée sera consacrée au spectacle les orgues du feu. Un moment magique et époustouflant qui restera gravé dans les mémoires de chacun. L'occasion de goûter les spécialités de la région dans l'un des restaurants du parc.
+
+Hébergement : 
+“Villa Gallo-Romaine”, très joli hôtel se trouvant au coeur du parc du Puy du Fou. Cela promet un séjour insolite en pleine Rome antique, propulsés à l'époque de l'Empire Romain. 4 chambres avec TV, dont 3 PMR. 
+
+Label : Label Tourisme et Handicap.
+Gestion des repas : Pension complète
+Nombre de participants : 5
+Nombre d'accompagnateurs : 2
+Nombre de Nuits : 1</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Une Pause Bien Etre en Loire-Atlantique</NomSejour>
 <DateDebut>20261111</DateDebut>
@@ -370,7 +1198,23 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUJA44B75HILARIE##Capture d'écran 2026-01-21 100115.png</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUJB519975HILARIE##IMG-20241005-WA0063.jpg</PHOTO2>
+        <Theme>automne</Theme>
+        <Theme>détente &amp; bien-être</Theme>
+        <Publication_Annonce>Retraite bien-être dans un cadre calme et verdoyant
+
+Au programme, un massage, de la réflexologie et de la sophrologie. Découverte de plusieurs ateliers avec une diététicienne mais également un soin du visage pour prendre soin de soi. Possibilité aquasophrologie pour ceux qui le désire ( en supplément). Farniente à la piscine intérieure et au sein du spa du gîte. Dégustation de galettes pendant une soirée. 
+
+Hébergement : 
+Gîte atypique “Une Pause au Logis”, spacieux, avec espace piscine, et spa intérieur. 3 chambres PMR chaque chambre à la TV, sa salle de bain et son WC. , une mezzanine. Label piscine médaille d’or européenne.
+
+Label : 
+Gestion des repas : Gestion libre
+Nombre de participants : 4
+Nombre d'accompagnateurs : 2
+Nombre de Nuits : 5</Publication_Annonce>
+<Participants>4</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Cocoon de Noël en Vendée</NomSejour>
 <DateDebut>20261219</DateDebut>
@@ -379,7 +1223,25 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVPZ295075LOUISE##40172241_694342560929071_4144532188102131712_n.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVO59302875LOUISE##20220102_104345.jpg</PHOTO2>
+        <Theme>campagne</Theme>
+        <Theme>détente &amp; bien-être</Theme>
+        <Publication_Annonce>Séjour dédié à la magie de noël dans une ambiance chaleureuse, propice à la détente
+
+Détente et farniente au logement avec la piscine et le jacuzzi.
+
+Il sera possible, selon les envies, d'organiser des massages et soins (supplément), ou bien pour vous mesdames de faire intervenir une maquilleuse pour vous faire belle pour la soirée du réveillon (supplément). Pour le réveillon un repas spectacle est prévu au cabaret le musique hall, soirée strass, paillettes et cancan, le parrain du cabaret est Patrick Sébastien. Plongez dans les décors et illuminations féeriques, les spectacles de noël. Marchés aux saveurs de Noël. Vous pourrez retrouver des objets artisanaux pour vous faire plaisir ou faire plaisir à vos proches. Balade une après midi en bord de mer afin de vous ressourcer.
+
+Hébergement : 
+Gîte les “Clés du Chant”. Très joli hébergement, avec un très grand espace de vie, piscine intérieure chauffée et jacuzzi. Logement chaleureux avec cheminée. 4 chambres PMR avec SDB, WC et TV. 
+
+Label : Labelisé 5 étoiles, Tourisme et Handicap, Gîte de France, 4 épis.
+Gestion des repas : Gestion libre
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Noël Magique à Paris</NomSejour>
 <DateDebut>20261219</DateDebut>
@@ -387,7 +1249,22 @@
 <Prix_Sejour>2886</Prix_Sejour>
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUJ4737B75HILARIE##marche-de-noel-1000x668.jpg</PHOTO1>
+        <Theme>fêtes de fin d'année</Theme>
+        <Publication_Annonce>Une semaine dédiée à la magie de Noël de la célèbre ville lumière
+
+Visites des incontournables monuments de Paris : Montmartre et le Sacré cœur, les Champs Elysées et ses célèbres magasins aux vitrines illuminées, la Tour Eiffel et balade en bateau mouche. Le séjour sera l’occasion de découvrir le parc d’attraction de Disneyland avec la parade de Noël et ses spectacles. Rencontre avec le Père Noël dans des décors féériques. Pour le réveillon, un repas spectacle est prévu au sein d'un cabaret. Le séjour sera l'occasion de découvrir les marchés de Noël, et un théâtre parisien.
+
+Hébergement : 
+Auberge de jeunesse Maurice Ravel, hébergement avec salle de restauration, espace détente. 4 chambres dont 3 PMR avec TV, sa salle de bain et WC .
+
+Label :  Labelisé 2 étoiles, Tourisme et Handicap.
+Gestion des repas : Pension complète
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Etoiles de Noel en Charente-Maritime</NomSejour>
 <DateDebut>20261219</DateDebut>
@@ -396,7 +1273,24 @@
 <Autonomie>A111 - B222 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVP48358175LOUISE##20231201-183854.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUJMRP75HILARIE##IMG_20191120_170705.jpg</PHOTO2>
+        <Theme>fêtes de fin d'année</Theme>
+        <Publication_Annonce>Vacances dédiées à la magie de Noël en bord de mer
+
+Un programme bien chargé : visite des grottes troglodytiques du Régulus, découverte de Planet exotica. Balade au sein d’un village de Noël avec la Maison du Père Noël et le jardin enchanté, un espace magique rempli de surprises et de féerie. Découverte des chalets en bois au marché de Noël avec produits artisanaux, jolies décorations de Noël, spécialités locales et autres douceurs. Il y aura également des attractions avec une piste de luge, et une grande roue.
+
+Des animations musicales et des spectacles pour toute la famille. Une balade féerique à bord du train décoré aux couleurs de Noël. Découverte du spectacle pyrotechnique de Royan illuminant le ciel. Balade dans le village de Barzan : découverte du port des Monards et le marais de l’estuaire. Un repas festif sera organisé pour le réveillon de Noel avec une soirée animée.
+
+Hébergement : 
+Gîte “Au Chemin des grandes mottes”, grand gîte spacieux avec jardin et terrasse. 2 hébergements avec 3 et 4 chambres. 
+
+Label : Label Gîte de France. 
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Noël féerique à Strasbourg</NomSejour>
 <DateDebut>20261220</DateDebut>
@@ -405,7 +1299,25 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVQZ49N75LOUISE##WhatsApp Image 2025-12-26 at 00.06.03 (2).jpeg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUJ53S6775HILARIE##WhatsApp Image 2025-12-21 at 21.17.09 (2).jpeg</PHOTO2>
+        <Theme>fêtes de fin d'année</Theme>
+        <Theme>culturel</Theme>
+        <Publication_Annonce>Séjour dédié à la magie de noël dans une ambiance chaleureuse, propice à la détente
+
+Balade à l'incontournable marché de Noël de Strasbourg avec dégustation des spécialités locales. Au programme, visite du musée du chocolat et du pain d’épices avec dégustations. Découverte de la ville de Strasbourg en bateau, de ses monuments historiques , balade le long de la Venise à Colmar. Visite des villages typiques. Passage à la frontière allemande, Baden-Baden, situé au pied de la Forêt Noire avec une architecture et des paysages remarquables, visiter la ville avec le funiculaire. Pour le réveillon, dîner au sein d'un restaurant.
+
+Hébergement : 
+“Hôtel Ciarus” avec espace détente et salle de jeux, bar. Salle de restaurant éco responsable avec des produits de qualité sous forme de buffet. 10 minutes à pieds du centre ville de Strasbourg. 4 chambres avec TV, dont 3 PMR. 
+
+Trajet retour : Ace hôtel à Troyes
+
+Label : Label Tourisme et Handicap et Ecolabel.
+Gestion des repas : Pension complète
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Noël Royal en Loir et Cher</NomSejour>
 <DateDebut>20261226</DateDebut>
@@ -414,7 +1326,24 @@
 <Autonomie>A311 - C421 MR</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUJ59IT75HILARIE##WhatsApp Image 2025-12-26 at 12.34.10 (3).jpeg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVNF513075LOUISE##IMG-20230828-WA0162.jpg</PHOTO2>
+        <Theme>fêtes de fin d'année</Theme>
+        <Theme>culturel</Theme>
+        <Publication_Annonce>Venez découvrir la magie de noël aux châteaux de la Loire 
+
+Au programme, visite guidée du Château de Chambord et spectacle de Noël. Partez à la découverte des parcours de Noël au Château de Chenonceau. Emerveillez-vous face aux décorations florales et à travers les animations féeriques. Venez visiter le Château de Blois avec des animations, sons et lumières.
+
+Visite des jardins décorés sur la thématique de Noël au Château de Cheverny. Découverte de plusieurs Marchés de Noël.
+
+Hébergement : 
+“Domaine de la Rosellerie”, gîte de “l’Etang”, en plein cœur d’un parc de 12 hectares. Grand espace de vie, 3 chambres PMR.
+
+Gestion des repas : Demi pension
+Nombre de participants : 4
+Nombre d'accompagnateurs : 2
+Nombre de Nuits : 4</Publication_Annonce>
+<Participants>4</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Nouvel an a la montagne</NomSejour>
 <DateDebut>20261226</DateDebut>
@@ -423,7 +1352,25 @@
 <Autonomie>A111 - B222 BA</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUJ56555175HILARIE##WhatsApp Image 2026-01-05 at 09.52.52 (2).jpeg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVKEUU75LOUISE##traineau-handicap.jpg</PHOTO2>
+        <Theme>montagne</Theme>
+        <Theme>hiver</Theme>
+        <Publication_Annonce>Séjour pour ceux qui souhaitent passer le Nouvel An au cœur des montagnes volcaniques
+
+Au programme: 
+
+Balade en train à crémaillère vous offrant un panorama à couper le souffle avec un point de vue à 360 degrés sur les chaînes volcaniques des dômes. Le train vous amènera au sommet du Puy de Dôme. Balade avec des chiens de traineaux. Visite d'une fabrique de fromages. Possibilité de réaliser une séance de ski fauteuil à la station du Mont Dore. (avec supplément) Venez visiter les jolis villages typiques tels que la Bourboule. Découverte des marchés de Noël de Clermont Ferrand et ses illuminations. Pour fêter la nouvelle année, profitez d'un repas festif avec une soirée animée.
+
+Hébergement : 
+“Chalet de Catherine”, grand chalet de 160m2, avec terrasse, au cœur du Massif de Sancy. 5 chambres dont une PMR. 
+
+Label : Label Gîte de France.
+Gestion des repas : Gestion libre
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 7</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Nouvel an au Fil de l'Eau dans les Landes</NomSejour>
 <DateDebut>20261227</DateDebut>
@@ -432,7 +1379,25 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVP5234W75LOUISE##20220902_091846.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVPI359875LOUISE##IMG-20230704-WA0017.jpg</PHOTO2>
+        <Theme>mer</Theme>
+        <Theme>fêtes de fin dn'année</Theme>
+        <Theme>culturel</Theme>
+        <Publication_Annonce>Séjour dédié à la magie des fêtes de fin d'année dans une ambiance chaleureuse
+
+Au programme, plusieurs visites : aquarium de Biarritz et cité de l'Océan. Partez à la découverte de la ville de Dax avec sa fontaine d'eau chaude, ses arènes et ses berges de la Dour, son lac. Balade en calèche le long du lac Azur. Découverte de stations balnéaires tel que CapBreton et Hossegor. Détente au spa du gîte, possibilité de massage (supplément). Pour le réveillon, un repas animé avec DJ est prévu au sein du casino de st Paul les Dax..
+
+Hébergement : 
+Gîte de la “Bergerie”, situé en plein cœur de la forêt landaise. Terrasse extérieure, espace détente avec jacuzzi.
+
+4 chambres PMR, chaque chambre à la TV, sa salle de bain et son WC.
+
+Gestion des repas : Gestion libre
+Nombre de participants : 5
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 6</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Nouvel an à la Montagne en Auvergne</NomSejour>
 <DateDebut>20261228</DateDebut>
@@ -441,7 +1406,23 @@
 <Autonomie>A311 - C421 MR</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVOI399075LOUISE##chien-de-traineau-lm-evasin.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAVOJC8975LOUISE##IMG-20250123-WA0012.jpg</PHOTO2>
+        <Theme>hiver</Theme>
+        <Theme>montagne</Theme>
+        <Publication_Annonce>Séjour pour ceux qui souhaitent passer le Nouvel An au coeur des montagnes volcaniques
+
+Au programme balade en train à crémaillère vous offrant un panorama à couper le souffle avec un point de vue à 360 degrés sur les chaînes volcaniques des dômes. Le train vous amènera au sommet du Puy de Dôme. Balade en chiens de traineaux. Visite d'une fabrique de fromages. Possibilité de réaliser une séance de ski fauteuil à la station du Mont Dore (avec supplément) Venez visiter les jolis villages typiques tels que la Bourboule. Découverte des marchés de Noël de Clermont Ferrand et ses illuminations. Dégustation de produits locaux. Pour fêter la nouvelle année, profitez d'un repas festif avec une soirée animée.
+
+Hébergement : 
+Gîte “Le Mont”, gîte de plein pied, avec un grand espace de vie, situé dans le parc naturel régional des volcans d’Auvergne. 4 chambres PMR. 
+
+Label :Labelisé 4 étoiles.
+Gestion des repas : Pension complète
+Nombre de participants : 4
+Nombre d'accompagnateurs : 2
+Nombre de Nuits : 5</Publication_Annonce>
+<Participants>4</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Féerie Puy du Fou en Vendée</NomSejour>
 <DateDebut>20261228</DateDebut>
@@ -450,7 +1431,23 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUKHR5375HILARIE##90976141-64047222.jpg</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUKIT3775HILARIE##IMG-20250923-WA0244.jpg</PHOTO2>
+        <Theme>fêtes de fin d'année</Theme>
+        <Theme>spectacles &amp; festivals &amp; parcs</Theme>
+        <Publication_Annonce>Court séjour, l’esprit de noël s’empare du Puy du Fou
+
+Un programme riche en émotions puisqu’il se composera de plusieurs spectacles grandioses. Des villages entièrement décorés. Nous suivrons un cortège de Noël guidé par son escorte de chevaux illuminant la forêt du Puy du Fou. Le parc vous propulse à travers les siècles et vous fait découvrir l’histoire de la Vendée de manière ludique. L'occasion de goûter les spécialités de la région dans l'un des restaurants du parc. 
+
+Hébergement : 
+“Villa Gallo-Romaine”, très joli hôtel se trouvant au coeur du parc du Puy du Fou. Cela promet un séjour insolite en pleine Rome antique, propulsés à l'époque de l'Empire Romain. 4 chambres avec TV, dont 3 PMR. 
+
+Label : Label Tourisme et Handicap.
+Gestion des repas : Pension complète
+Nombre de participants : 5
+Nombre d'accompagnateurs : 2
+Nombre de Nuits : 1</Publication_Annonce>
+<Participants>5</Participants>
 </SEJOUR>
+
 <SEJOUR>
 <NomSejour>Nouvel an Enchanté dans la Vienne</NomSejour>
 <DateDebut>20261231</DateDebut>
@@ -459,5 +1456,20 @@
 <Autonomie>A111 - C432 PT</Autonomie>
 <PHOTO1>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUKL548275HILARIE##OIP (1).webp</PHOTO1>
 <PHOTO2>https://s4.iwancloud.fr/PUBLIC/JSON/PHOTOSSEJOURS/LMEVASIONJAUKN323275HILARIE##IMG-20240104-WA0101.jpg</PHOTO2>
+        <Theme>fêtes de fin d'année</Theme>
+        <Theme>spectacles &amp; festivals &amp; parcs</Theme>
+        <Publication_Annonce>Court séjour dédié à la féérie au sein du célèbre parc du Futuroscope avec ses illuminations et son village de Noël
+
+Plongez deux jours au cœur du parc du Futuroscope entre voyages, sensations fortes et jeux ludiques ! Vous assisterez à un spectacle nocturne à couper le souffle. Repas festif pour le réveillon. Goûter des Minimoys durant le séjour à la table d’Arthur. Plusieurs restaurants du parc sont programmés, le restaurant de la table d'Arthur, le space loop "restaurant du futur''.
+
+Hébergement : 
+“Hôtel du futuroscope”. 4 chambres avec TV dont 3 PMR. 
+
+Label : Label Tourisme et Handicap.
+Gestion des repas : Pension complète
+Nombre de participants : 6
+Nombre d'accompagnateurs : 3
+Nombre de Nuits : 2</Publication_Annonce>
+<Participants>6</Participants>
 </SEJOUR>
 </SEJOURS>
